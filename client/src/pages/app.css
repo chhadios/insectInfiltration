@@ -1,0 +1,68 @@
+body{
+    background-color:#4c504d ;
+
+}
+.app_container{
+    font-family: Poppins, sans-serif;
+    width:100%;
+    height: 100%;
+    position:absolute;
+    top: 0;
+    left: 0;
+    background-color:#4c504d ;
+}
+.game_container{
+    margin-top: 20px;
+    border-radius: 20px;
+    width:60%;
+    margin-left: 20%;
+    padding: 20px;
+    text-align: center;
+    background-color: black;
+}
+.results_container{
+    margin-top: 20px;
+    border-radius: 20px;
+    width:60%;
+    margin-left: 20%;
+    padding: 20px;
+    padding-top: 0;
+    border: 2px solid black;
+}
+.results_heading{
+    font-size: 25px;
+}
+.game_container_header{
+    font-size: 20px;
+    color: white;
+    
+}
+.text_area{
+    width:50%;
+    margin:auto;
+    display: block;
+    border-radius: 10px;
+    font-size: 16px;
+    font-family: Poppins;
+    color: grey;
+    padding: 10px;
+}
+.button{
+    width: 20%;
+    height:40px;
+    border-radius: 10px;
+    background-color: #4c504d;
+    margin: 10px;
+    color: white;
+    font-size: 16px;
+    font-family: Poppins;
+}
+.header{
+    text-align: center;
+    margin:auto;
+    padding-top: 20px;
+    background-color: black;
+    height:70px;
+    font-size: 30px;
+    color: white;
+}

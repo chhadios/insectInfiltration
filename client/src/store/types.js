@@ -1,0 +1,1 @@
+export const GET_RESULTS='get_results';
