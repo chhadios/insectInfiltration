@@ -57,6 +57,10 @@ body{
     font-size: 16px;
     font-family: Poppins;
 }
+.button:hover{
+    box-shadow: 1px 1px #4c504d;
+    cursor: pointer;
+}
 .header{
     text-align: center;
     margin:auto;

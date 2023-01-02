@@ -34,7 +34,7 @@ class Rover {
         this.position.d = cardinalPoints[index]
         break
 
-      case 'M':
+      case 'F':
         switch (this.position.d) {
           case 'N':
             this.position.y = this.position.y + 1
